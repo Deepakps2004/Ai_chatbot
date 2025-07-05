@@ -1,4 +1,4 @@
-
+````
 ---
 
 ````markdown
@@ -27,6 +27,7 @@ Welcome to **Pixel AI**, a lightweight web-based chatbot interface built with HT
 ```bash
 git clone https://github.com/Deepakps2004/Ai_chatbot.git
 cd Ai_chatbot
+````
 ````
 
 2. **Install dependencies**
